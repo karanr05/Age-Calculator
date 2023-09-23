@@ -2,7 +2,7 @@
 
 User Informations 
 
-        1. Using this website the user can get his current DOB. 
+        1. Using this website the user can get his current Age. 
         
         2. User needs to select his DOB and clicks on the Calculate button.
         
